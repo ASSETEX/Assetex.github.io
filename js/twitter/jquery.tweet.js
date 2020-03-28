@@ -1,6 +1,7 @@
 // jquery.tweet.js - See http://tweet.seaofclouds.com/ or https://github.com/seaofclouds/tweet for more info
-// Copyright (c) 2008-2012 Todd Matthews & Steve Purcell
+// Copyright (c) 2008-2020 Todd Matthews & Steve Purcell
 // Modified by Stan Scates for https://github.com/StanScates/Tweet.js-Mod
+// Copyright (c) 2020 AYCH inc, (https://gitter.im/aychr/) and for AYCHDeveloper of Assetex on github at (https://github.com/assetex/assetex/)
 
 (function (factory) {
 	if (typeof define === 'function' && define.amd)
