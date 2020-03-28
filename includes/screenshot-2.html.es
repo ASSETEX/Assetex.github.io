@@ -9,7 +9,7 @@
 				<h3>Integrado con autenticación de dos factores</h3>
 				<div class="hr hr_small"> <span class="hr_inner"></span></div>
 				<div class="portfolioContent">
-					<p>WLOX utiliza Authy para proveerles el servicio de autenticaci&oacute;n de dos factores a sus usuarios. Tan s&oacute;lo registrese para obtener una llave de API y c&oacute;piela al archivo de configuraci&oacute;n.</p>
+					<p>ASSETEX utiliza Authy para proveerles el servicio de autenticaci&oacute;n de dos factores a sus usuarios. Tan s&oacute;lo registrese para obtener una llave de API y c&oacute;piela al archivo de configuraci&oacute;n.</p>
 				</div><!--portfolioContent-->
 				</div>
 
