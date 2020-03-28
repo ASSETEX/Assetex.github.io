@@ -9,7 +9,7 @@
 				<h3>Configuración de cuenta amigable</h3>
 				<div class="hr hr_small"> <span class="hr_inner"></span></div>
 				<div class="portfolioContent">
-					<p>Las cuentas de usuario WLOX son amigables a los usuarios, permitiendolos gestionar sus preferencias sin confusi&oacute;n, resultando en menos llamadas a su equipo de soporte.</p>
+					<p>Las cuentas de usuario ASETEX son amigables a los usuarios, permitiendolos gestionar sus preferencias sin confusi&oacute;n, resultando en menos llamadas a su equipo de soporte.</p>
 				</div><!--portfolioContent-->
 				</div>
 
